@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "title": "this is the first blog",
+      "author": "Billal Hossain",
+      "discription": "99",
+      "id": 1
+    },
+    {
+      "title": "this is second blog",
+      "author": "Alex Mathor",
+      "time": "2018-05-22T05:25:01.087Z",
+      "discription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi amet nihil repudiandae illum, quas eveniet ea facilis repellendus eaque pariatur commodi, est, minus recusandae, sit. Sit cupiditate nulla, officiis quos.",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
